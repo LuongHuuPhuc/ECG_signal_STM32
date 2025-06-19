@@ -22,3 +22,7 @@ Timer là bộ đếm, nó sẽ đếm từ 0, mỗi lần tăng 1 giá trị, g
   - Gây 1 sự kiện "Update Event"
   - Nếu bạn chỉnh cấu hình TRGO = Update Event -> Timer sẽ phát 1 xung trigger tại đây 
   - Chính xung này được gọi là xung Trigger Output (TRGO) -> ADC nhận được và bắt đầu lấy mẫu
+
+# Kết quả # 
+![image](https://github.com/user-attachments/assets/edae0199-ae4e-467c-a14f-96ff22cb560f)
+
